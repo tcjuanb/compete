@@ -1,0 +1,4 @@
+compete
+=======
+
+General Competition Website
