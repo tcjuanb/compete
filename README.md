@@ -1,4 +1,2 @@
-compete
-=======
 
-General Competition Website
+Start
